@@ -25,6 +25,7 @@
  
  * DOM
  * Async, Await and Fetch.
+ * Bootstrap
 
 
 
